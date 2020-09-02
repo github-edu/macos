@@ -1,0 +1,8 @@
+[user]
+	email = sky@my.edu.cn
+	name = Sky
+[core]
+	autocrlf = input
+	safecrlf = warn
+[credential]
+	helper = osxkeychain
