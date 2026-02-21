@@ -1,0 +1,23 @@
+[user]
+        email = earth@sun.galaxy
+        name = CHINESE
+[core]
+        autocrlf = input
+        safecrlf = warn
+        ignorecase = false
+[pull]
+        rebase = false
+[color]
+        ui = true
+[init]
+        defaultBranch = master
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        unstage = reset HEAD --
+[credential "helperselector"]
+        selected = wincred
+[credential]
+        helper = manager
